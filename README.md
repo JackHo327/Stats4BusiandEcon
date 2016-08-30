@@ -9,3 +9,5 @@
 
 - chapter3_descriptive_statistics_Value uploaded.
 - datasets uploaded.
+- all R scripts deleted and be replaced by .Rmd files.
+
